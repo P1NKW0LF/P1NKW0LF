@@ -1,12 +1,19 @@
-### Hi there👋, i’m P1NKW0LF
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Handjet:wght@300&family=JetBrains+Mono:wght@300&family=Noto+Sans+NKo+Unjoined&family=Open+Sans:ital,wght@0,300;0,500;1,300;1,500&display=swap" rel="stylesheet">
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2EE6&center=true&vCenter=true&width=435&lines=Hi+there,+i'm+P1NKW0LF" alt="Typing SVG" /></a>
+</p>
 
-- 🌱 I’m currently learning **JavaScrip, SQL, C++, Python, Machine learning**
-- 🔭 I’am currently working on a discord bot and also on an image recognition AI with Python
+<h3 align="center" style="font-family:'Handjet';font-size:35px; color: orange ;"> 
+RIGHT NOW!
+</h3>
+
+- 🌱 I’m learning ***JavaScrip, HTML, CSS, SQL, C++, Python***
+- 🔭 I’am working on a discord bot and more
 
 <!--
-**P1NKW0LF/P1NKW0LF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
