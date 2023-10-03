@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there👋, i’m P1NKW0LF
+
+
+- 🌱 I’m currently learning **JavaScrip, SQL, C++, Python, Machine learning**
+- 🔭 I’am currently working on a discord bot and also on an image recognition AI with Python
 
 <!--
 **P1NKW0LF/P1NKW0LF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 -->
