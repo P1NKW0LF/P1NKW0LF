@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=48px&pause=1500&color=FF2EE6&center=true&duration=2500&vCenter=true&width=435&lines=Hi+there,+i'm+P1NKW0LF" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center"> 
+<h3 align="center" style="font-size: 20px;" > 
 RIGHT NOW!
 </h3>
 
