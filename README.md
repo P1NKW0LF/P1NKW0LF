@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <h1 align="center">Connect with me!</h1>
 
 <!-- Iconos -->
-<div class="flex-container">
+<!-- <div class="flex-container">
     <div class="item">
         <a href="https://www.linkedin.com/in/daniel-jacobo-bernard-junco-b5b0591a3/" target="_blank">
             <i class="fa-brands fa-linkedin" style="color: #FF2EE6; font-size: 40px;"></i>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
             <i class="fa-solid fa-envelope" style="color: #FF2EE6; font-size: 40px;"></i>
         </a>
     </div>
-</div>
+</div> -->
 
 
 <!-- Technologias titulo -->
@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 
 <!-- css -->
 
-<style>
+<!-- <style>
   .flex-container {
     display: flex;
     padding: 25px;
@@ -131,9 +131,9 @@ Here are some ideas to get you started:
     text-align: center;
     padding: 10px;
     border-radius: 10px;
-    flex: 1; /* Distribuye el espacio equitativamente */
+    flex: 1; 
   }
   h1{
     padding-top: 10px;
   }
-</style>
+</style> -->
