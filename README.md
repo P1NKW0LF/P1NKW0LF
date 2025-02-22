@@ -12,39 +12,55 @@
 </p>
 
 <!-- primer subtitulo -->
-<h3 align="center" style="font-size: 20px;" > 
-    RIGHT NOW!
-</h3>
+<h1 align="center">RIGHT NOW!</h1>
 
 <!-- body -->
-- 🌱 I’m learning ***JavaScrip, SQL, Dart, Flutter***
-- 📫 How to reach me: dannybernard2003@gmail.com
+- 🌱 **I’m learning:** JavaScrip, SQL, Dart, Flutter
+- ⚡️ **Fun fact:** Snails have only two neurons to make decisions, making them the most minimalist algorithms in nature. 🐌💾
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... 
+-->
 
 <!-- Contactos -->
-<h3 align="center" style="font-size: 20px;" > 
-    Connect with me!
-</h3>
+<h1 align="center">Connect with me!</h1>
 
 <!-- Iconos -->
 <div class="flex-container">
     <div class="item">
-        <i class="fa-brands fa-linkedin" style="color: #FFD43B; font-size: 45px;"></i>
+        <a href="https://www.linkedin.com/in/daniel-jacobo-bernard-junco-b5b0591a3/" target="_blank">
+            <i class="fa-brands fa-linkedin" style="color: #FF2EE6; font-size: 40px;"></i>
+        </a>
     </div>
     <div class="item">
-        <i class="fa-brands fa-linkedin" style="color: #FFD43B; font-size: 45px;"></i>
+        <a href="https://discord.com/channels/@me" target="_blank">
+            <i class="fa-brands fa-discord" style="color: #FF2EE6; font-size: 40px;"></i>
+        </a>
     </div>
     <div class="item">
-        <i class="fa-brands fa-linkedin" style="color: #FFD43B; font-size: 45px;"></i>
+        <a href="https://www.instagram.com/dannybernard03?igsh=MTYwem8yMW9hOTQ0OQ%3D%3D&utm_source=qr" target="_blank">
+            <i class="fa-brands fa-instagram" style="color: #FF2EE6; font-size: 40px;"></i>
+        </a>
     </div>
-     <div class="item">
-        <i class="fa-brands fa-linkedin" style="color: #FFD43B; font-size: 45px;"></i>
+    <div class="item">
+        <a href="mailto:dannybernard2003@gmail.com">
+            <i class="fa-solid fa-envelope" style="color: #FF2EE6; font-size: 40px;"></i>
+        </a>
     </div>
 </div>
 
+
 <!-- Technologias titulo -->
-<h3 align="center" style="font-size: 20px;" > 
-    Lenguages y tecnologias 💻
-</h3>
+<h1 align="center">Lenguages y tecnologias 💻</h1>
 
 <!-- Technologias -->
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -86,27 +102,29 @@
 ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Jupyther](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+<!-- <h1 align="center">🎵 I'm Listening to: </h1>
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ova7gmrn4urymjfhlm5akoc4c&count=10)](https://open.spotify.com/user/ova7gmrn4urymjfhlm5akoc4c) -->
+
+<h1 align="center">🎧 I'm Listening to:</h1>
+<div align="center">
+  <a href="https://open.spotify.com/user/ova7gmrn4urymjfhlm5akoc4c">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ova7gmrn4urymjfhlm5akoc4c&count=10"/>
+  </a>
+</div>
 
 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
+<!-- css -->
 
 <style>
   .flex-container {
     display: flex;
-    padding: 10px;
+    padding: 25px;
+    padding-top: 0px;
   }
 
   .item {
@@ -114,5 +132,8 @@ Here are some ideas to get you started:
     padding: 10px;
     border-radius: 10px;
     flex: 1; /* Distribuye el espacio equitativamente */
+  }
+  h1{
+    padding-top: 10px;
   }
 </style>
