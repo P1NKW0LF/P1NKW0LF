@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Contactos -->
-<h1 align="center">Connect with me!</h1>
+<!-- <h1 align="center">Connect with me!</h1> -->
 
 <!-- Iconos -->
 <!-- <div class="flex-container">
