@@ -1,14 +1,14 @@
 <!--Markdown preview ctrl + kv-->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Handjet:wght@300&family=JetBrains+Mono:wght@300&family=Noto+Sans+NKo+Unjoined&family=Open+Sans:ital,wght@0,300;0,500;1,300;1,500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
 
 <!-- Importar iconos -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" /> 
 
 <!-- Titulo -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=48px&pause=1500&color=FF2EE6&center=true&duration=2500&vCenter=true&width=435&lines=Hi+there,+i'm+Daniel+Bernard;aka+'+P1NKW0LF+'" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=29px&pause=1500&color=FF2EE6&center=true&duration=2500&vCenter=true&width=435&lines=Hi+there,+i'm+Daniel+Bernard;aka+'+P1NKW0LF+'" alt="Typing SVG" /></a>
 </p>
 
 <!-- primer subtitulo -->
@@ -106,9 +106,6 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-<!-- <h1 align="center">🎵 I'm Listening to: </h1>
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ova7gmrn4urymjfhlm5akoc4c&count=10)](https://open.spotify.com/user/ova7gmrn4urymjfhlm5akoc4c) -->
 
 <h1 align="center">🎧 I'm Listening to:</h1>
 <div align="center">
